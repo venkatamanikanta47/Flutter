@@ -1,16 +1,18 @@
-# expenses_2
+## Flutter Money List App
 
-A new Flutter project.
+It is a Basic Demo App where a person can keep track of their personal expenses and can see their expenditure since a week via a chart.
 
-## Getting Started
+The App is,
 
-This project is a starting point for a Flutter application.
+1.Responsive to **Portrait and Lanscape Modes**.
 
-A few resources to get you started if this is your first Flutter project:
+2.Can Switch between **light and Dark Modes**.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+3.An **Adaptive interface** to provide a feel seperately for Android and ios users by changing the buttons and toolbars as that of their os.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/venkatamanikanta47/images/blob/master/four.jpg" alt="drawing" width="200"/>
+<img src="https://github.com/venkatamanikanta47/images/blob/master/three.jpg" alt="drawing" width="200"/>
+<img src="https://github.com/venkatamanikanta47/images/blob/master/two.jpg" alt="drawing" width="200"/>
+<img src="https://github.com/venkatamanikanta47/images/blob/master/one.jpg" alt="drawing" width="200"/>
+
+
