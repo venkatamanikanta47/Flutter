@@ -150,10 +150,7 @@ class _MyHomePageState extends State<MyHomePage> {
               Container(
                 padding: EdgeInsets.only(right: 8),
               ),
-              IconButton(
-                icon: Icon(Icons.add_circle),
-                onPressed: () => _startAddNewTransaction(context),
-              ),
+              
             ],
           );
 
